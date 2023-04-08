@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: False,
+  reactStrictMode: True,
   basePath: '/next-app-deploy',
   assetPrefix: '/next-app-deploy',
 }
